@@ -220,7 +220,7 @@
   <h2>GoldMine Pawnshop Menu</h2>
 
   <form id="menuForm">
-	  <h3>Ancient Amulet/h3>
+	  <h3>Ancient Amulet</h3>
     <label>
       <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
       <input type="number" class="quantity" value="1" min="1" />
@@ -229,7 +229,7 @@
       <input type="checkbox" class="menu-item" data-price="1000" /> GM Max Sell Price - $135
       <input type="number" class="quantity" value="1" min="1" />
     </label>
-      <h3>Ancient Blade/h3>
+      <h3>Ancient Blade</h3>
     <label>
       <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
       <input type="number" class="quantity" value="1" min="1" />
@@ -238,7 +238,7 @@
       <input type="checkbox" class="menu-item" data-price="1000" /> GM Max Sell Price - $135
       <input type="number" class="quantity" value="1" min="1" />
     </label>
-      <h3>Anceint Guard/h3>
+      <h3>Anceint Guard</h3>
     <label>
       <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
       <input type="number" class="quantity" value="1" min="1" />
@@ -247,7 +247,7 @@
       <input type="checkbox" class="menu-item" data-price="1000" /> GM Max Sell Price - $135
       <input type="number" class="quantity" value="1" min="1" />
     </label>
-      <h3>Ancient Hilt/h3>
+      <h3>Ancient Hilt</h3>
     <label>
       <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
       <input type="number" class="quantity" value="1" min="1" />
@@ -289,8 +289,5 @@
     <button type="button" onclick="calculateTotals()">Calculate</button>
     <button type="button" onclick="SubForm()">Submit</button>
     <button type="button" onclick="resetForm()">Reset</button>
-    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  </body>
-</html>
