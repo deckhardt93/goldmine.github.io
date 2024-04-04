@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -6,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Ottos.github.io</title>
+<title>GoldMinePawnshop.github.io</title>
 <meta name="generator" content="Jekyll v3.9.4" />
 <meta property="og:title" content="Ottos.github.io" />
 <meta property="og:locale" content="en_US" />
@@ -26,17 +25,11 @@
 <!-- Setup Google Analytics -->
 
 
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/Ottos.github.io/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://lewice.github.io/Ottos.github.io/">Ottos.github.io</a></h1>
+      <h1><a href="https://deckhardt93.github.io/goldmine.github.io/">goldmine.github.io</a></h1>
       
 
       <html lang="en">
@@ -224,12 +217,39 @@
 </head>
 <body>
 
-  <h2>Otto's Menu</h2>
+  <h2>GoldMine Pawnshop Menu</h2>
 
   <form id="menuForm">
 	  <h3>Ancient Amulet/h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $1
+      <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
+      <input type="number" class="quantity" value="1" min="1" />
+    </label>
+		     <label>
+      <input type="checkbox" class="menu-item" data-price="1000" /> GM Max Sell Price - $135
+      <input type="number" class="quantity" value="1" min="1" />
+    </label>
+      <h3>Ancient Blade/h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
+      <input type="number" class="quantity" value="1" min="1" />
+    </label>
+		     <label>
+      <input type="checkbox" class="menu-item" data-price="1000" /> GM Max Sell Price - $135
+      <input type="number" class="quantity" value="1" min="1" />
+    </label>
+      <h3>Anceint Guard/h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
+      <input type="number" class="quantity" value="1" min="1" />
+    </label>
+		     <label>
+      <input type="checkbox" class="menu-item" data-price="1000" /> GM Max Sell Price - $135
+      <input type="number" class="quantity" value="1" min="1" />
+    </label>
+      <h3>Ancient Hilt/h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="1000" /> GM Min Sell Price - $88
       <input type="number" class="quantity" value="1" min="1" />
     </label>
 		     <label>
