@@ -7,16 +7,16 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>GoldMinePawnshop.github.io</title>
 <meta name="generator" content="Jekyll v3.9.4" />
-<meta property="og:title" content="Ottos.github.io" />
+<meta property="og:title" content="goldmine.github.io" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://lewice.github.io/Ottos.github.io/" />
-<meta property="og:url" content="https://lewice.github.io/Ottos.github.io/" />
+<link rel="canonical" href="https://deckhardt93.github.io/goldmine.github.io/" />
+<meta property="og:url" content="https://deckhardt93.github.io/goldmine.github.io/" />
 <meta property="og:site_name" content="Ottos.github.io" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Ottos.github.io" />
+<meta property="twitter:title" content="goldmine.github.io" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Ottos.github.io","name":"Ottos.github.io","url":"https://lewice.github.io/Ottos.github.io/"}</script>
+
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/Ottos.github.io/assets/css/style.css?v=b1fe457a91e06eec11b892c00d174c1d1b69c888">
@@ -289,13 +289,6 @@
     <button type="button" onclick="calculateTotals()">Calculate</button>
     <button type="button" onclick="SubForm()">Submit</button>
     <button type="button" onclick="resetForm()">Reset</button>
-  </form>
-
-</body>
-</html>
-
-
-      
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
